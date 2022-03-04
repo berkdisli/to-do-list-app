@@ -9,5 +9,7 @@ https://berkdisli.github.io/to-do-list-app/
 ## Key Features
 
 *Add a task by pressing enter
+
 *Mark a task as done by pressing the green thick
+
 *Delete a task by clicking the trash icon
